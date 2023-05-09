@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kmm_plugin_runtime-jvm-0.1.2">
+    <output-path>$PROJECT_DIR$/kmm_plugin_runtime/build/libs</output-path>
+    <root id="archive" name="kmm_plugin_runtime-jvm-0.1.2.jar">
+      <element id="module-output" name="AndroidKCP.kmm_plugin_runtime.jvmMain" />
+    </root>
+  </artifact>
+</component>

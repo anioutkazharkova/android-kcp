@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="AndroidKCP.kmm_plugin.main" target="11" />
+      <module name="AndroidKCP.kmm_plugin.test" target="11" />
+      <module name="AndroidKCP.kmm_plugin_gradle" target="11" />
+      <module name="AndroidKCP.kmm_plugin_gradle.main" target="11" />
+      <module name="AndroidKCP.kmm_plugin_gradle.test" target="11" />
+      <module name="AndroidKCP.kmm_plugin_native" target="11" />
+      <module name="AndroidKCP.kmm_plugin_native.main" target="11" />
+      <module name="AndroidKCP.kmm_plugin_native.test" target="11" />
+      <module name="AndroidKCP.kmm_plugin_runtime.main" target="11" />
+      <module name="AndroidKCP.kmm_plugin_runtime.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
